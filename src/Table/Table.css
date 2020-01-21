@@ -1,0 +1,7 @@
+.TableLink:hover {
+    cursor: pointer;
+    background-color: rgba(231, 229, 229, 0.89);
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+    opacity: .9;
+}
